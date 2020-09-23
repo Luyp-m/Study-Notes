@@ -2,5 +2,35 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/sinoyd-mini/Desktop/Game/StudyNotes/StudyNotes.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=8383&amp;EndingColumnNumber=0&amp;EndingLineNumber=246&amp;StartingColumnNumber=0&amp;StartingLineNumber=246&amp;Timestamp=618139549.036628"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/sinoyd-mini/Desktop/Game/StudyNotes/StudyNotes.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=6127&amp;EndingColumnNumber=17&amp;EndingLineNumber=175&amp;StartingColumnNumber=5&amp;StartingLineNumber=175&amp;Timestamp=618139549.036759"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/sinoyd-mini/Desktop/Game/StudyNotes/StudyNotes.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=6232&amp;EndingColumnNumber=110&amp;EndingLineNumber=175&amp;StartingColumnNumber=110&amp;StartingLineNumber=175&amp;Timestamp=618139549.03688"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/sinoyd-mini/Desktop/Game/StudyNotes/StudyNotes.playground#CharacterRangeLen=111&amp;CharacterRangeLoc=6122&amp;EndingColumnNumber=0&amp;EndingLineNumber=176&amp;StartingColumnNumber=0&amp;StartingLineNumber=175&amp;Timestamp=618139549.036972"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/sinoyd-mini/Desktop/Game/StudyNotes/StudyNotes.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=6853&amp;EndingColumnNumber=16&amp;EndingLineNumber=204&amp;StartingColumnNumber=13&amp;StartingLineNumber=204&amp;Timestamp=618139549.037062"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/sinoyd-mini/Desktop/Game/StudyNotes/StudyNotes.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=6878&amp;EndingColumnNumber=21&amp;EndingLineNumber=205&amp;StartingColumnNumber=13&amp;StartingLineNumber=205&amp;Timestamp=618139549.03715"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
