@@ -64,6 +64,7 @@ func threeSum<T: BidirectionalCollection>(_ collection: T, target: T.Element) ->
         // 数组中剩余元素中的末位索引值
         var r = sorted.index(before: sorted.endIndex)
 
+        // 数组中剩余元素可以使用Two Sum进行计算，此处的时间复杂度为O(n log n)
         TwoSum: while m < r && r < sorted.endIndex {
             let sum = sorted[l] + sorted[m] + sorted[r]
             if sum == target {
@@ -84,3 +85,4 @@ let sums = [-1, 0, 1, 2, -1, -4]
 let target = 0
 let a = threeSum(sums, target: target)
 print(a)
+
